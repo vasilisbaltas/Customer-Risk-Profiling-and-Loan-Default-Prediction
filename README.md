@@ -1,1 +1,1 @@
-# Risk-Profiling-and-Loan-Default-Prediction
+# Customer-Risk-Profiling-and-Loan-Default-Prediction
