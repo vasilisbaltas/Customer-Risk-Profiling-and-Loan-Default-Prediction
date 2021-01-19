@@ -1,7 +1,4 @@
 
-
-
-
 from statistics import mean
 import pandas as pd
 import numpy as np
