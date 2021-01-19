@@ -6,9 +6,6 @@ import matplotlib.pyplot as plt
 
 
 
-
-
-### Please transfer all the provided .csv files to the same folder with the existing code
 loan_defaults = pd.read_csv('Loan_Defaults.csv')
 loan_attributes = pd.read_csv('Modified_Loan_Attributes.csv')
 
