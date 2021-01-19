@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 
-
 import pandas as pd
 import numpy as np
-
-
 
 
 ################    checking the Loan_Attributes csv file   ###################
